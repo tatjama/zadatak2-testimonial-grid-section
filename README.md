@@ -11,7 +11,7 @@
   - [Author](#author)
 ## Overview
 ![Overview](./images/screenshots/Testimonials-1.jpg)
-![Mobile IPhone 6/7/8](./images/screenshots/testimonials2.jpg)
+![Mobile IPhone 6/7/8](./images/screenshots/Testimonials2.jpg)
 ![Tablet](./images/screenshots/testimonials-3.jpg)
 ![Desktop](./images/screenshots/testimonials-4.jpg)
 
@@ -26,7 +26,7 @@ Users should be able to:
 ![Desktop](./images/screenshots/desktop-1440px.png)
 ![Mobile](./images/screenshots/mobile-375px.png)
 ![Mobile Landscape](./images/screenshots/mobile-landscape.png)
-![FullScreen](./images/screenshots/desktop-fullscreen.png)on.**
+![FullScreen](./images/screenshots/desktop-fullscreen.png)
 
 ### Links
 
