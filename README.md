@@ -1,60 +1,73 @@
-# Testimonials grid section
+# Testimonials grid section solution
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
+## Table of contents
 
-## Welcome! 👋
+  - [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [My process](#my-process)
+  - [Built with](#built-with)
+  - [Author](#author)
+## Overview
+![Overview](./images/screenshots/Testimonials-1.jpg)
+![Mobile IPhone 6/7/8](./images/screenshots/testimonials2.jpg)
+![Tablet](./images/screenshots/testimonials-3.jpg)
+![Desktop](./images/screenshots/testimonials-4.jpg)
 
+### The challenge
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
-
-## The challenge
-
-Your challenge is to build out this testimonials grid section and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
+Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
+### Screenshot
 
-## Where to find everything
+![Desktop](./images/screenshots/desktop-1440px.png)
+![Mobile](./images/screenshots/mobile-375px.png)
+![Mobile Landscape](./images/screenshots/mobile-landscape.png)
+![FullScreen](./images/screenshots/desktop-fullscreen.png)on.**
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+### Links
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+-  [Solution URL:](https://github.com/tatjama/zadatak2-testimonial-grid-section)
+-  [Live Site URL:](https://vercel.com/tatjana/zadatak2-testimonial-grid-section)
 
+## My process
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+1. Create a new project 
+2. Import starting code 
+3. Initializing git repositories main and development
+4. Import git repositories to the Vercel project
+5. Create HTML structure
+6. Import fonts to styles 
+7. Use Figma design tools for measurements
+8. Create CSS Utility
+9. Article padding, margin, font-size...
+10. CSS Grid
+11. Style colors: text, background, borders, shadows
+13. Responsive breakpoints at 1024px, 768px, 480px
+14. Compare original designs with my work
+15. Create screenshots
+16. Change README-template.md to README.md 
+17. Merge develop branch into master branch
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+### Built with
 
-## Building your project
+- Semantic HTML5 markup
+- CSS Grid
+- Media queries
+- Centering elements, content and text
+- Background Image
+- Element positioning
+- Box-shadows
+- Customize font,width and size
+- Borders
+- Transparency
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+## Author
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+- Website - [Tatjana Markovic](https://my-react-portfolio-tatjana.vercel.app/)
+- LinkedIn - [Tatjana Marković](https://www.linkedin.com/in/tatjana-markovi%C4%87-919501189/)
+- GitHub - [tatjama](https://github.com/tatjama)
 
-## Deploying your project
-
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-
-
-## Create a custom `README.md`
-
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
-
-**Have fun building!** 🚀

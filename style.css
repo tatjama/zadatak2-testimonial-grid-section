@@ -88,6 +88,7 @@ h1{
    grid-area: 1 / 4 / 3 / 5;
 }
 /*End Grid layout*/
+
 /*Start Responsive*/
 @media screen and (max-width: 1024px){
     .article-container{
@@ -106,8 +107,12 @@ h1{
     }   
 }
 @media screen and (max-width: 480px){
+    .container{
+        padding: 71px 24px;
+    }
     .article-container{
         grid-template-columns: 1fr  ;
+        row-gap: 24px;
     }
      .item1,.item2,.item4, .item5{
         grid-area: initial;
