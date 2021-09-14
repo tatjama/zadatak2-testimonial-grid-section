@@ -88,7 +88,30 @@ h1{
    grid-area: 1 / 4 / 3 / 5;
 }
 /*End Grid layout*/
-
-/*
-- Mobile: 375px
-*/
+/*Start Responsive*/
+@media screen and (max-width: 1024px){
+    .article-container{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .item5{
+        grid-area: 3/1/4/3;
+    }
+}
+@media screen and (max-width: 768px){
+    .article-container{
+        grid-template-columns: 1fr 1fr ;
+    }
+    .item4{
+        grid-column: 1/3;
+    }   
+}
+@media screen and (max-width: 480px){
+    .article-container{
+        grid-template-columns: 1fr  ;
+    }
+     .item1,.item2,.item4, .item5{
+        grid-area: initial;
+    }
+    
+}
+/*End Responsive*/
